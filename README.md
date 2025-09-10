@@ -28,6 +28,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats & Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=artemchalenko)

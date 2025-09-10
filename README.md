@@ -30,6 +30,4 @@
 ---
 
 ### 📊 GitHub Stats & Achievements
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artemchalenko&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemchalenko&layout=compact&theme=tokyonight)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=artemchalenko&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=artemchalenko)

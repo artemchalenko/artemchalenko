@@ -5,8 +5,7 @@
 ---
 
 - 🔭 I’m currently working on **large-scale distributed systems, microservices, and long-living production platforms (10+ years uptime)**  
-- 🌱 I’m currently learning more about **cloud-native architectures, AI-driven development, and advanced DevOps practices**  
-- 👯 I’m looking to collaborate on **open-source projects in PHP, JavaScript/TypeScript, or modern frontend frameworks**  
+- 🌱 I’m currently learning more about **cloud-native architectures, AI-driven development, and advanced DevOps practices** 
 - 🤔 I’m looking for help with **pushing the limits of scalability and resilience in mission-critical systems**  
 - 💬 Ask me about **software architecture, fullstack development, CI/CD, database optimization, and building tech that lasts**  
 - 😄 Pronouns: **he/him**
